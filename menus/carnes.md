@@ -10,3 +10,6 @@ Lo mejor de la gastronomía carnes.
 ## Bebidas Recomendadas
 - Bebida 1
 - Bebida 2
+
+## Consejos
+- Disfruta y comparte en familia.
